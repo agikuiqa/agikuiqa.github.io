@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://agikuiqa.github.io/sitemap_index.agikuiqa
